@@ -1,0 +1,58 @@
+.category {
+    text-align: center;
+    font-size: 14px;
+    color: grey;
+    
+}
+
+h1 {
+    text-align: center;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.author {
+    text-align: center;
+    font-size:14px;
+    color:grey;
+}
+
+.daftar-isi a {
+    text-decoration: none;
+    color: #0066cc;
+    font-weight: bold;
+}
+
+.daftar-isi a:hover {
+    text-decoration: underline;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+    margin: 40px;
+}
+
+h2 {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+p {
+    text-align: justify;
+}
+
+.highlight {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+strong {
+    font-weight: bold;
+}
+
+.citation {
+    font-style: italic;
+    color: gray;
+}
